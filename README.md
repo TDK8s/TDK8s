@@ -1,16 +1,16 @@
-## Hi there 👋
+#Cześć! ✋
 
-<!--
-**TDK8s/TDK8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem junior developerem z Polski, który koduje w Go i zgłębia tajniki Linuksa, Dockera oraz Kubernetesa. Tworzę narzędzia i systemy, które działają szybko i niezawodnie.
 
-Here are some ideas to get you started:
+## Skills
+- **Go**: API, CLI, concurrency
+- **Linux**: Networking, terminal
+- **Docker**: Konteneryzacja
+- **Kubernetes**: Deploy i skalowanie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekty
+
+## Kontakt
+- 📧 Email: tymoteusz.dom@gmail.com
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
