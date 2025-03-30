@@ -3,10 +3,11 @@
 Jestem junior developerem z Polski, który koduje w Go i zgłębia tajniki Linuksa, Dockera oraz Kubernetesa. Tworzę narzędzia i systemy, które działają szybko i niezawodnie.
 
 ## Skills
-- **Go**: API, CLI, concurrency
+- **Go**: API, REST, WS
+- **JS**: VUE2
+- **TS**: VUE3
 - **Linux**: Networking, terminal
 - **Docker**: Konteneryzacja
-- **Kubernetes**: Deploy i skalowanie
 
 ## Projekty
 
